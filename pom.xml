@@ -6,7 +6,7 @@
 
     <groupId>co.vinod</groupId>
     <artifactId>utils</artifactId>
-    <version>1.0</version>
+    <version>1.2</version>
 
     <name>Simple utilities</name>
     <description>Clsses with static functions to read data from STDIN and print object graph</description>
